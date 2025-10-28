@@ -93,19 +93,20 @@ A results-oriented engineer with a proven record in **cross-platform mobile app 
 ---
 
 ##  Recruiter-Focused Summary
-* 10+ years of experience delivering enterprise-grade mobile applications and architectures for fintech, navigation, and enterprise systems.
-* Expert in iOS (Swift, SwiftUI, Objective-C), Flutter, and cross-platform integration, leading multi-platform delivery teams at W1TTY, TPLMaps, and Xcentric.
-* Designed and deployed scalable, secure, and cloud-native architectures using Firebase, GCP, and Microservices.
-* Skilled in AI chatbot development, LLM integration (LLaMA 3, GPT-based models), and conversational UX design.
-* Proven leadership in remote, Agile environments, mentoring teams and ensuring high-quality, on-time deliveries.
-* Integrated payment gateways, subscription systems, and in-app purchases with CI/CD pipelines for continuous delivery.
-* Implemented real-time data sync, mapping SDKs, and performance optimization for mission-critical apps.
+* 10+ years of experience delivering enterprise-grade mobile applications and architectures for fintech, navigation, and enterprise systems.<br><br>
+* Expert in iOS (Swift, SwiftUI, Objective-C), Flutter, and cross-platform integration, leading multi-platform delivery teams at W1TTY, TPLMaps, and Xcentric.<br><br>
+* Designed and deployed scalable, secure, and cloud-native architectures using Firebase, GCP, and Microservices.<br><br>
+* Skilled in AI chatbot development, LLM integration (LLaMA 3, GPT-based models), and conversational UX design.<br><br>
+* Proven leadership in remote, Agile environments, mentoring teams and ensuring high-quality, on-time deliveries.<br><br>
+* Integrated payment gateways, subscription systems, and in-app purchases with CI/CD pipelines for continuous delivery.<br><br>
+* Implemented real-time data sync, mapping SDKs, and performance optimization for mission-critical apps.<br><br>
 
 ## You can expect:
-✅ Fast, reliable, and version-controlled deployments
-✅ Transparent and proactive communication
-✅ Careful attention to signing, versioning, and release integrity
-✅ A product-focused mindset ensuring every feature aligns with business and user goals
+* Fast, reliable, and version-controlled deployments.<br><br>
+* Transparent and proactive communication.<br><br>
+* Careful attention to signing, versioning, and release integrity.<br><br>
+* A product-focused mindset ensuring every feature aligns with business and user goals.<br><br>
+
 
 ---
 
