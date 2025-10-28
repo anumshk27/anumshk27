@@ -107,15 +107,14 @@ A results-oriented engineer with a proven record in **cross-platform mobile app 
 * Careful attention to signing, versioning, and release integrity.<br><br>
 * A product-focused mindset ensuring every feature aligns with business and user goals.<br><br>
 
-
 ---
 
 ##  Let’s Connect
 
 <p align="center">
   <a href="mailto:anumshk27@gmail.com"><img src="https://img.shields.io/badge/Email-anumshk27%40gmail.com-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-anum" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Anum-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/muhammadanum" target="blank"><img src="https://img.shields.io/badge/GitHub-muhammadanum-black?logo=github" /></a>
+  <a href="https://www.linkedin.com/in/anumshk/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-anumshk-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/anumshk27" target="blank"><img src="https://img.shields.io/badge/GitHub-anumshk27-black?logo=github" /></a>
 </p>
 
 ---
