@@ -12,7 +12,7 @@ A results-oriented engineer with a proven record in **cross-platform mobile app 
 
 ---
 
-## Tech Stack (Visual Overview)
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,flutter,dart,python,nodejs,firebase,gcp,docker,git,github,gitlab,bitbucket,figma,postman,sqlite,mysql,redis,vscode,androidstudio,apple" />
