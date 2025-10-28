@@ -31,7 +31,7 @@ A results-oriented engineer with a proven record in **cross-platform mobile app 
 
 ## Highlighted Projects
 
-### ** WordWise** — Cross-Platform Vocabulary Builder
+### **WordWise** — Cross-Platform Vocabulary Builder
 
 > Designed a gamified language-learning experience with quizzes, multilingual translations, and NLP-driven sentence generation.
 > **Tech Stack:** Flutter • GETX • Firebase • Node.js • Mixpanel • SQFLite
