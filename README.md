@@ -36,27 +36,27 @@ A results-oriented engineer with a proven record in **cross-platform mobile app 
 > Designed a gamified language-learning experience with quizzes, multilingual translations, and NLP-driven sentence generation.
 > **Tech Stack:** Flutter • GETX • Firebase • Node.js • Mixpanel • SQFLite
 
-### ** W1TTY** — FinTech Platform
+### **W1TTY** — FinTech Platform
 
 > Built real-time reporting and analytics modules with secure transaction APIs and custom Combine pipelines.
 > **Tech Stack:** Swift • Combine • Firebase • Mixpanel • StoreKit
 
-### ** TPLMaps** — Navigation & Mapping System
+### **TPLMaps** — Navigation & Mapping System
 
 > Core contributor to Pakistan’s first digital mapping platform. Focused on geolocation APIs, traffic layers, and performance optimization.
 > **Tech Stack:** Swift • MVVM • Firebase • CoreLocation • MapKit
 
-### ** TPL Insurance** — Digital Insurance App
+### **TPL Insurance** — Digital Insurance App
 
 > Developed end-to-end insurance solutions with policy issuance, claims, and payments using secure APIs.
 > **Tech Stack:** Swift • Combine • Firebase • ARKit
 
-### ** TPL Trakker** — Vehicle Tracking App
+### **TPL Trakker** — Vehicle Tracking App
 
 > Engineered SwiftUI-based telematics interface for real-time tracking and geofence alerts.
 > **Tech Stack:** SwiftUI • CoreLocation • Combine • AVFoundation
 
-### **🏢 Bahria Town Complaint System** — Internal Enterprise App
+### **Bahria Town Complaint System** — Internal Enterprise App
 
 > Built complaint tracking and communication modules for residential support.
 > **Tech Stack:** UIKit • CoreLocation • URLSession • NotificationCenter
@@ -86,8 +86,8 @@ A results-oriented engineer with a proven record in **cross-platform mobile app 
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadanum&show_icons=true&theme=radical" alt="GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanum&layout=compact&theme=radical" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anumshk27&show_icons=true&theme=radical" alt="GitHub stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anumshk27&layout=compact&theme=radical" alt="Top Languages" height="180em" />
 </p>
 
 ---
