@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/anumshk27/anumshk27/blob/main/assets/banner.png)
 
-# Hi, I'm Muhammad Anum — Principal iOS & Cross-Platform Engineer
+# Hi, I'm Muhammad Anum - Principal iOS & Cross-Platform Engineer
 
 > I craft mobile experiences that blend innovation, design, and performance — from fintech to AI-driven products. With over a decade of hands-on experience in iOS, Flutter, and cloud architecture, I help teams deliver scalable, secure, and elegant mobile applications.
 
