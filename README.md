@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/anumshk27/anumshk27/blob/main/assets/banner.png)]
+![MasterHead](https://github.com/anumshk27/anumshk27/blob/main/assets/banner.png)
 
 # Hi, I'm Muhammad Anum — Principal iOS & Cross-Platform Engineer
 
